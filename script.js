@@ -101,14 +101,14 @@ const appData = [
         name: '💊 MD',
         type: 'MD',
         quality: '⚡️ High Quality',
-        image: 'CategMd.png', 
+        image: 'CategMD.png', 
         products: [
             {
                 id: 'MDMA_FESTIF',
                 name: '💊 MDMA (Marie Denise)',
                 farm: 'Produit Festif 🎉',
                 type: 'MD',
-                image: 'CategMd.png',
+                image: 'CategMD.png',
                 description: 'Pour plus venez privée 📩',
                 tarifs: [
                     { weight: '1g', price: 50.00 },
